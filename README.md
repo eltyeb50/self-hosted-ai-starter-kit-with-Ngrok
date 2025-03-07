@@ -120,9 +120,9 @@ x-n8n: &service-n8n
     - OLLAMA_HOST=host.docker.internal:11434
 ```
 
-Additionally, after you see "Editor is now accessible via: <http://localhost:5678/>":
+Additionally, after you see "Editor is now accessible via: (Your Ngrok Domain) <https://from-ngrok.ngrok-free.app/>":
 
-1. Head to <http://localhost:5678/home/credentials>
+1. Head to (Your Ngrok Domain) <https://from-ngrok.ngrok-free.app/home/credentials>
 2. Click on "Local Ollama service"
 3. Change the base URL to "http://host.docker.internal:11434/"
 
