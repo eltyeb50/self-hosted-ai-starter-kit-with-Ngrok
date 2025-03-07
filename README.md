@@ -16,7 +16,7 @@ store with an comprehensive API
 ✅ [**PostgreSQL**](https://www.postgresql.org/) -  Workhorse of the Data
 Engineering world, handles large amounts of data safely.
 
-✅ [**Ngrok-Tunnel**](https://ngrok.com/) - Tunneling serivice
+✅ [**Ngrok-Tunnel**](https://ngrok.com/) - Tunneling Service
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
