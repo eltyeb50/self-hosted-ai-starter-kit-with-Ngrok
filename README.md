@@ -8,7 +8,7 @@ This repository contains a Docker Compose setup for running n8n "self-hosted-ai-
 integrations and advanced AI components
 
 ✅ [**Ollama**](https://ollama.com/) - Cross-platform LLM platform to install
-and run the latest local LLMs
+and run the latest local LLMs wih huihui_ai/deepseek-r1-abliterated:8b
 
 ✅ [**Qdrant**](https://qdrant.tech/) - Open-source, high performance vector
 store with an comprehensive API
@@ -138,16 +138,16 @@ docker compose --profile cpu up
 The core of the Self-hosted AI Starter Kit is a Docker Compose file, pre-configured with network and storage settings, minimizing the need for additional installations.
 After completing the installation steps above, simply follow the steps below to get started.
 
-1. Open <http://localhost:5678/> in your browser to set up n8n. You’ll only
+1. Open (Your Ngrok Domain) -> e.g. <https://from-ngrok.ngrok-free.app> in your browser to set up n8n. You’ll only 
    have to do this once.
 2. Open the included workflow:
-   <http://localhost:5678/workflow/srOnR8PAY3u4RSwb>
+   <https://from-ngrok.ngrok-free.app/workflow/srOnR8PAY3u4RSwb>
 3. Click the **Chat** button at the bottom of the canvas, to start running the workflow.
 4. If this is the first time you’re running the workflow, you may need to wait
-   until Ollama finishes downloading Llama3.2. You can inspect the docker
-   console logs to check on the progress.
+   until Ollama finishes downloading huihui_ai/deepseek-r1-abliterated:8b. You can inspect the docker
+   console logs to check on the progress. (docker logs ollama-pull-llama)
 
-To open n8n at any time, visit <http://localhost:5678/> in your browser.
+To open n8n at any time, visit (Your Ngrok Domain) https://from-ngrok.ngrok-free.app in your browser.
 
 With your n8n instance, you’ll have access to over 400 integrations and a
 suite of basic and advanced AI nodes such as
@@ -159,7 +159,7 @@ language model and Qdrant as your vector store.
 
 > [!NOTE]
 > This starter kit is designed to help you get started with self-hosted AI
-> workflows. While it’s not fully optimized for production environments, it
+> workflows and Tunelled via Ngrok free domain that will get. While it’s not fully optimized for production environments, it
 > combines robust components that work well together for proof-of-concept
 > projects. You can customize it to meet your specific needs
 
