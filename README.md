@@ -1,8 +1,22 @@
 
 # n8n Self hosted AI starter kit and Ngrok Tunnel
 
-This repository contains a Docker Compose setup for running n8n with Ngrok as a tunneling service. n8n is a workflow automation tool that allows you to connect different services and APIs. Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+This repository contains a Docker Compose setup for running n8n "self-hosted-ai-starter-kit" with Ngrok as a tunneling service. n8n is a workflow automation tool that allows you to connect different services and APIs. Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+### What’s included
 
+✅ [**Self-hosted n8n**](https://n8n.io/) - Low-code platform with over 400
+integrations and advanced AI components
+
+✅ [**Ollama**](https://ollama.com/) - Cross-platform LLM platform to install
+and run the latest local LLMs
+
+✅ [**Qdrant**](https://qdrant.tech/) - Open-source, high performance vector
+store with an comprehensive API
+
+✅ [**PostgreSQL**](https://www.postgresql.org/) -  Workhorse of the Data
+Engineering world, handles large amounts of data safely.
+
+✅ [**Ngrok-Tunnel**](https://ngrok.com/) - Tunneling serivice
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
