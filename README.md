@@ -1,5 +1,5 @@
 
-# n8n withSelf hosted AI starter kit and Ngrok Tunnel
+# n8n Self hosted AI starter kit and Ngrok Tunnel
 
 This repository contains a Docker Compose setup for running n8n with Ngrok as a tunneling service. n8n is a workflow automation tool that allows you to connect different services and APIs. Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
 
