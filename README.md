@@ -146,7 +146,11 @@ After completing the installation steps above, simply follow the steps below to 
 3. Click the **Chat** button at the bottom of the canvas, to start running the workflow.
 4. If this is the first time you’re running the workflow, you may need to wait
    until Ollama finishes downloading huihui_ai/deepseek-r1-abliterated:8b. You can inspect the docker
-   console logs to check on the progress. (docker logs ollama-pull-llama)
+   console logs to check on the progress.
+ ```
+docker logs ollama-pull-llama
+```
+
 
 To open n8n at any time, visit (Your Ngrok Domain) https://from-ngrok.ngrok-free.app in your browser.
 
