@@ -4,5 +4,5 @@ tunnels:
     n8n:
         proto: http
         addr: n8n:5678
-        domain: YOUR-DOMAIN.ngrok-free.app
+        domain: from-ngrok.ngrok-free.app
     
