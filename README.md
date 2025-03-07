@@ -201,7 +201,7 @@ Maintained by [Altayeb Mohamed](https://github.com/eltyeb50)
 
 This project is based on and incorporates elements from the following repositories:
 
-*   [Original Repository 1 Name](Original Repository 1 URL) by [Original Author 1]([Original Author 1 GitHub URL](https://github.com/n8n-io/self-hosted-ai-starter-kit/tree/main))
-*   [Original Repository 2 Name](Original Repository 2 URL) by [Original Author 2](https://github.com/Joffcom/n8n-ngrok)
+*   ([n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit/tree/main))
+*   [Joffcom/n8n-ngrok](Original Repository 2 URL) by [Original Author 2](https://github.com/Joffcom/n8n-ngrok)
 
 This project combines and extends the functionality of these repositories to create a unified self-hosted AI starter kit with Tunnel functinality.
