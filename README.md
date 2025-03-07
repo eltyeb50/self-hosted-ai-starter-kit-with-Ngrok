@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 - Docker: [Get Docker](https://docs.docker.com/get-docker/)
 - Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
 
-Create your Domain using Ngrok (Free)
+ Get AuthToken and Domain from Ngrok (Free)
 - Ngrok Domain: [Create New domain](https://dashboard.ngrok.com/domains)
 
 ## Setup
