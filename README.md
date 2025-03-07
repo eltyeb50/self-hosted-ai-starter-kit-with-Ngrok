@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/joffcom/n8n-ngrok.git
+   git clone https://github.com/eltyeb50/self-hosted-ai-starter-kit-with-Ngrok.git
    ```
 
 2. **Ngrok Authentication**
@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
    Set your Ngrok auth token in the `.env` file:
 
    ```sh
-   NGROK_TOKEN=XXXYYYZZZ
+   NGROK_TOKEN=
    ```
 
 3. **Permanent Domain**
