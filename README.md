@@ -22,6 +22,7 @@ Engineering world, handles large amounts of data safely.
 Before you begin, ensure you have the following installed:
 - Docker: [Get Docker](https://docs.docker.com/get-docker/)
 - Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
+- Ngrok Domain: [Create New domain](https://dashboard.ngrok.com/domains)
 
 ## Setup
 
