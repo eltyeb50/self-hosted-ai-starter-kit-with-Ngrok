@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
    Set your Ngrok auth token in the `.env` file:
 
    ```sh
-   NGROK_TOKEN=SET_NGROK_AUTH_TOKEN_HERE
+   NGROK_AUTHTOKEN=SET_NGROK_AUTH_TOKEN_HERE   
    ```
 
 3. **Permanent Domain**
