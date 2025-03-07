@@ -195,7 +195,6 @@ docker compose create && docker compose --profile cpu up
 
 
 
-# n8n Self-hosted AI Starter Kit and Ngrok Tunnel
 
 Maintained by [Altayeb Mohamed](https://github.com/eltyeb50)
 
@@ -205,3 +204,7 @@ This project is based on and incorporates elements from the following repositori
 *   [Joffcom/n8n-ngrok](https://github.com/Joffcom/n8n-ngrok)
 
 This project combines and extends the functionality of these repositories to create a unified self-hosted AI starter kit with Tunnel functinality.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
