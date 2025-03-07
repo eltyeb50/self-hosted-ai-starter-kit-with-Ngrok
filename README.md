@@ -8,7 +8,7 @@ This repository contains a Docker Compose setup for running n8n "self-hosted-ai-
 integrations and advanced AI components
 
 ✅ [**Ollama**](https://ollama.com/) - Cross-platform LLM platform to install
-and run the latest local LLMs wih huihui_ai/deepseek-r1-abliterated:8b
+and run the latest local LLMs (huihui_ai/deepseek-r1-abliterated:8b)
 
 ✅ [**Qdrant**](https://qdrant.tech/) - Open-source, high performance vector
 store with an comprehensive API
