@@ -18,7 +18,7 @@ This project combines and extends the functionality of these repositories to cre
 integrations and advanced AI components
 
 ✅ [**Ollama**](https://ollama.com/) - Cross-platform LLM platform to install
-and run the latest local LLMs (huihui_ai/deepseek-r1-abliterated:8b)
+and run local LLMs (qwen2.5:7b)
 
 ✅ [**Qdrant**](https://qdrant.tech/) - Open-source, high performance vector
 store with an comprehensive API
